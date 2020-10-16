@@ -7,10 +7,10 @@ ASM智能链拥有卓越的性能，百万级并发处理能力。ASM智能链5�
 ## 使用Metamask钱包连接ASM Smart Chain
 详见教程
 电脑版
-https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/20201015/how%20to%20use%20metamask%20on%20asm%20smart%20chain/metamask%20%E7%94%B5%E8%84%91%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf
+https://github.com/AVMDEFI/ASM-Smart-Chain/raw/main/20201015/how%20to%20use%20metamask%20on%20asm%20smart%20chain/metamask%20%E7%94%B5%E8%84%91%E7%AB%AF%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf
 
 手机版
-https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/20201015/how%20to%20use%20metamask%20on%20asm%20smart%20chain/metamask%E6%89%8B%E6%9C%BA%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf
+https://github.com/AVMDEFI/ASM-Smart-Chain/raw/main/20201015/how%20to%20use%20metamask%20on%20asm%20smart%20chain/metamask%E6%89%8B%E6%9C%BA%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf
 ## ASMSwap - ASM Smart Chain上第一个去中心交易所
 使用Metamask访问https://swap.asm.am
 
