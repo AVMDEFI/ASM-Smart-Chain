@@ -25,7 +25,7 @@
      
 <img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-7.png" />
 
-<img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-8.png" />
+<p><img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-8.png" /><p/>
 
 注：在此页面中输入助记词时如果输入错误可以点击输入错误的单词重新进行输入
 
