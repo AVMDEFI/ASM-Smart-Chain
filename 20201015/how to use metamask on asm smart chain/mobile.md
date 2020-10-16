@@ -70,4 +70,5 @@ Block Explorer URL: https://explorer.asm.am/
 
 在此页面中可以选择创建或者导入asm钱包账号；
 选择导入账户后会进入导入页面，在此页面中输入私钥后选择import即可导入账户
+
 <img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-16.png" />
