@@ -7,7 +7,7 @@
 ## 步骤二：创建账户
 安装完metamask之后点击打开，在APP页面点击get start进入钱包首页面，选择导入钱包或者创建新钱包；
 选择创建新钱包账户：
-<img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-1.png" />
+<img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-1.png" />
 
 在新页面中创建钱包的密码，此密码是每次进入metamask的解锁密码
 <img src="https://github.com/AVMDEFI/ASM-Smart-Chain/blob/main/.github/assets/mobile-2.png" />
