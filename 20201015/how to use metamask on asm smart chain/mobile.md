@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-1.png" />
 
 在新页面中创建钱包的密码，此密码是每次进入metamask的解锁密码
+
 <img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-2.png" />
 
 输入密码后点击create password，进入助记词保存开始页面，在此页面中选择start进入钱包创建步骤2，在此页面中直接选择start进入确认页面，输入之前设置的密码后进入助记词保存页面，点击view之后显示助记词，之后将助记词按顺序保存，保存好之后点击continue进入下一步；
@@ -24,8 +25,7 @@
 在此页面中将之前保存的助记词按顺序输入进去，完成之后点击complete backup完成钱包账户的创建；
      
 <img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-7.png" />
-
-<p><img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-8.png" /><p/>
+<img src="https://raw.githubusercontent.com/AVMDEFI/ASM-Smart-Chain/main/.github/assets/mobile-8.png" />
 
 注：在此页面中输入助记词时如果输入错误可以点击输入错误的单词重新进行输入
 
