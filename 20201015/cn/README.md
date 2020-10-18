@@ -17,6 +17,7 @@ http://shafheqinvieqni.oss-accelerate.aliyuncs.com/metamask-for-mobile-on-ASM-Sm
 
 ASMSwap需要配合Metamask使用
 手机操作教程：http://shafheqinvieqni.oss-accelerate.aliyuncs.com/how-to-use-ASMSwap.pdf
+
 电脑版操作教程：http://shafheqinvieqni.oss-accelerate.aliyuncs.com/how-to-use-ASMSwap-on-PC.pdf
 
 ## GIFT - 献给ASM社区成员的ASM一周年礼物
