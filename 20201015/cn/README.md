@@ -14,6 +14,7 @@ http://shafheqinvieqni.oss-accelerate.aliyuncs.com/metamask-for-mobile-on-ASM-Sm
 
 ## ASMSwap - ASM Smart Chain上第一个去中心交易所
 使用Metamask访问https://swap.asm.am
+ASMSwap操作教程：http://shafheqinvieqni.oss-accelerate.aliyuncs.com/how-to-use-ASMSwap.pdf
 
 ## GIFT - 献给ASM社区成员的ASM一周年礼物
 GIFT Token 
