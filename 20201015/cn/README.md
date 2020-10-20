@@ -68,3 +68,8 @@ GIFT初始价格=100,000 $ASM/100,000 $GIFT=1ASM.
 
 假设第三笔交易为将第一笔兑换所得的的990.09901 $GIFT兑换回ASM，则可兑换得ASM的数量=111,000 $ASM-111,000 $ASM*90,090.09 $GIFT/(90,090.09+990.09901)$GIFT=1206.639 $ASM，则第一笔兑换者的利润为206.639 $ASM，扣除兑换手续费约2000*0.3%=6 $ASM的损耗，利润约200 $ASM。
 
+## ASM智能链DEFI讨论群 $GIFT 
+
+Telegram进群链接https://t.me/ascdefi
+
+币用进群链接https://0.plus/ascdefi
