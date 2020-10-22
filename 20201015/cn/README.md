@@ -36,7 +36,7 @@ ASMSwap需要配合Metamask使用
 电脑版操作教程：http://shafheqinvieqni.oss-accelerate.aliyuncs.com/how-to-use-ASMSwap-on-PC.pdf
 
 ## GIFT - 献给ASM社区成员的ASM一周年礼物
-GIFT Token 
+GIFT Token （0x1D780B629Ba7C05174b5e26961cFf32FF0ED9EC3）
 
 供应总量100,000枚，0预挖、0私募、0预留，
 
